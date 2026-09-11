@@ -2,7 +2,7 @@
 
 <!-- HERO -->
 <a href="https://www.linkedin.com/in/shobit-halse">
-  <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=60&height=80&color=FFFFFF&center=true&vCenter=true&width=600&lines=Shobit+Halse.&repeat=false" alt="Shobit Halse" />
+  <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=60&height=80&color=FFFFFF&center=true&vCenter=true&width=600&lines=Shobit+Halse.&repeat=false" alt="Shobhit Halse" />
 </a>
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=24&height=40&color=A3A3A3&center=true&vCenter=true&width=600&lines=Designing+clarity+in+a+world+full+of+noise.&repeat=false" alt="Designing clarity in a world full of noise." />
