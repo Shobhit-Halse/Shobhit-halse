@@ -29,14 +29,17 @@
 <br><br><br>
 
 <!-- Minimal Links (Icon + Text) -->
-<img src="./portfolio.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;<a href="https://shobhit-designs.vercel.app/" target="_blank">Portfolio ↗</a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/logos/linkedin-icon.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<a href="https://www.linkedin.com/in/shobhit-halse/" target="_blank">LinkedIn ↗</a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/logos/google-gmail.svg" width="15" height="15" align="absmiddle" alt="" />&nbsp;<a href="mailto:hellowshobhit@gmail.com">Email ↗</a>
+<a href="https://shobhit-designs.vercel.app/" target="_blank"><img src="./icons/portfolio.svg" width="24" height="24" align="absmiddle" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="https://shobhit-designs.vercel.app/" target="_blank">Portfolio ↗</a>
+&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shobhit-halse/" target="_blank"><img src="./icons/linkedIn.svg" width="20" height="20" align="absmiddle" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shobhit-halse/" target="_blank">LinkedIn ↗</a>
+&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:hellowshobhit@gmail.com"><img src="./icons/gmail.svg" width="22" height="22" align="absmiddle" alt="Email" /></a>&nbsp;&nbsp;<a href="mailto:hellowshobhit@gmail.com">Email ↗</a>
 
 <br><br>
 
-<sub><img src="./india.svg" width="14" height="14" align="absmiddle" alt="India" />&nbsp; India · UTC+5:30</sub>
+<!-- Location -->
+<sub><a href="#readme"><img src="./icons/india.svg" width="20" height="20" align="absmiddle" alt="India" /></a>&nbsp; India · UTC+5:30</sub>
+
+<br><br>
 
 </div>
